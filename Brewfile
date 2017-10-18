@@ -5,7 +5,6 @@ tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/services"
 brew "mas"
-brew "mysql", restart_service: true
 brew "pow"
 brew "rbenv"
 brew "nvm"
