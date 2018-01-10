@@ -12,7 +12,6 @@ cask "dropbox"
 cask "firefox"
 cask "google-chrome"
 cask "iterm2"
-cask "tuntap"
 cask "spotify"
 mas "1Password", id: 443987910
 mas "GIPHY CAPTURE", id: 668208984
