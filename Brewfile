@@ -13,7 +13,7 @@ cask  'firefox'
 cask  'google-chrome'
 cask  'iterm2'
 cask  'spotify'
-mas   '1Password',          id: 443987910
+mas   '1Password 7',        id: 1333542190
 mas   'GIPHY CAPTURE',      id: 668208984
 mas   'Keynote',            id: 409183694
 mas   'MindNode',           id: 1289197285
