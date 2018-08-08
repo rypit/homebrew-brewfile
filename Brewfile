@@ -1,5 +1,4 @@
 cask_args appdir: '/Applications'
-tap   'caskroom/cask'
 tap   'github/bootstrap'
 tap   'homebrew/bundle'
 tap   'homebrew/core'
