@@ -1,10 +1,16 @@
 cask_args appdir: '/Applications'
+
+# Taps
 tap   'homebrew/bundle'
 tap   'homebrew/core'
 tap   'homebrew/services'
+
+# Brews
 brew  'gpg'
 brew  'mas'
 brew  'rbenv'
+
+# Casks
 cask  'atom'
 cask  'caffeine'
 cask  'dropbox'
@@ -12,6 +18,8 @@ cask  'firefox'
 cask  'google-chrome'
 cask  'iterm2'
 cask  'spotify'
+
+# App Store
 mas   '1Password 7',        id: 1333542190
 mas   'GIPHY CAPTURE',      id: 668208984
 mas   'Keynote',            id: 409183694
