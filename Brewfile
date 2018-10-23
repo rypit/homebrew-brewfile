@@ -1,6 +1,8 @@
 cask_args appdir: '/Applications'
 
 # Taps
+tap   'customink/bootstrap-python'
+tap   'github/bootstrap'
 tap   'homebrew/bundle'
 tap   'homebrew/core'
 tap   'homebrew/services'
@@ -8,6 +10,8 @@ tap   'homebrew/services'
 # Brews
 brew  'gpg'
 brew  'mas'
+brew  'nodenv'
+brew  'pyenv'
 brew  'rbenv'
 
 # Casks
