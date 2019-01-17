@@ -21,6 +21,7 @@ cask  'dropbox'
 cask  'firefox'
 cask  'google-chrome'
 cask  'iterm2'
+cask  'postman'
 cask  'spotify'
 
 # App Store
