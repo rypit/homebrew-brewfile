@@ -31,5 +31,4 @@ mas   'Keynote',            id: 409183694
 mas   'MindNode',           id: 1289197285
 mas   'Moom',               id: 419330170
 mas   'Slack',              id: 803453959
-mas   'Things',             id: 407951449
 mas   'Xcode',              id: 497799835
