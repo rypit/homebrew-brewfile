@@ -13,6 +13,7 @@ brew  'mas'
 brew  'nodenv'
 brew  'pyenv'
 brew  'rbenv'
+brew  'shellcheck'
 
 # Casks
 cask  'atom'
