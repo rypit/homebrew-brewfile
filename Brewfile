@@ -27,7 +27,6 @@ cask  'spotify'
 # App Store
 mas   '1Password 7',        id: 1333542190
 mas   'GIPHY CAPTURE',      id: 668208984
-mas   'Keynote',            id: 409183694
 mas   'MindNode',           id: 1289197285
 mas   'Moom',               id: 419330170
 mas   'Slack',              id: 803453959
