@@ -9,6 +9,7 @@ tap   'homebrew/services'
 
 # Brews
 brew  'gpg'
+brew  'hub'
 brew  'mas'
 brew  'nodenv'
 brew  'pyenv'
