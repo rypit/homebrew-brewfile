@@ -19,6 +19,7 @@ brew  'shellcheck'
 # Casks
 cask  'atom'
 cask  'caffeine'
+cask  'docker'
 cask  'google-chrome'
 cask  'iterm2'
 cask  'postman'
