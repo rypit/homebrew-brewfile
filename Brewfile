@@ -9,6 +9,7 @@ tap   'homebrew/services'
 
 # Brews
 brew  'gpg'
+brew  'httpie'
 brew  'hub'
 brew  'mas'
 brew  'nodenv'
