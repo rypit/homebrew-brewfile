@@ -8,6 +8,7 @@ tap   'homebrew/core'
 tap   'homebrew/services'
 
 # Brews
+brew  'bash'
 brew  'gpg'
 brew  'httpie'
 brew  'hub'
