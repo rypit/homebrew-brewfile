@@ -1,6 +1,8 @@
 cask_args appdir: '/Applications'
 
 # Brews
+brew  'antidote'
+brew  'gemini-cli'
 brew  'gpg'
 brew  'httpie'
 brew  'hub'
@@ -14,7 +16,9 @@ brew  'uv'
 # Casks
 cask  'visual-studio-code'
 cask  'caffeine'
+cask  'claude-code'
 cask  'docker-desktop'
+cask  'ghostty'
 cask  'google-chrome'
 cask  'obsidian'
 cask  'spotify'
