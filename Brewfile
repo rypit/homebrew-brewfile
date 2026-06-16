@@ -14,6 +14,7 @@ brew  'nodenv'
 brew  'plantuml'
 brew  'rbenv'
 brew  'shellcheck'
+brew  'uv'
 
 # Casks
 cask  'visual-studio-code'
