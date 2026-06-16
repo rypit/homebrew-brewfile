@@ -1,10 +1,5 @@
 cask_args appdir: '/Applications'
 
-# Taps
-tap   'homebrew/bundle'
-tap   'homebrew/core'
-tap   'homebrew/services'
-
 # Brews
 brew  'gpg'
 brew  'httpie'
@@ -19,8 +14,9 @@ brew  'uv'
 # Casks
 cask  'visual-studio-code'
 cask  'caffeine'
-cask  'docker'
+cask  'docker-desktop'
 cask  'google-chrome'
+cask  'obsidian'
 cask  'spotify'
 
 # App Store
